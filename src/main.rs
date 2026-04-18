@@ -89,7 +89,7 @@ fn list_modules(pid: u32) {
 }
 
 fn main() {
-    let target = "notepad.exe";
+    let target = "test.exe";
 
     println!("scanning: {}", target);
 
